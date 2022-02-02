@@ -1,2 +1,2 @@
 # Power-BI-Assignment_Ebenezer_Koomson
-Digicap Assignment2
+Ebenezer_Koomson_PowerBI_Assignment1
